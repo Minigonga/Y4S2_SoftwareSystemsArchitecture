@@ -1,1 +1,0 @@
-# Y4S2_SoftwareSystemsArchitecture
